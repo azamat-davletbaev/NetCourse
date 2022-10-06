@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/FourthCoffee.ExceptionLogger/.vs/FourthCoffee.ExceptionLogger
+/FourthCoffee.ExceptionLogger/FourthCoffee.ExceptionLogger/obj/Debug
+/FourthCoffee.ExceptionLogger/FourthCoffee.ExceptionLogger/bin/Debug
